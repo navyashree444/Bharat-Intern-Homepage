@@ -1,0 +1,38 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Netflix Home Page </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <img src="C:\Users\DELL\Desktop\New folder\logo.png" alt="logo"> 
+    </nav>
+    <div class="form-wrapper">
+        <h2> Sign In </h2>
+        <form action=" ">
+            <div class="form-control">
+                <input type="e-mail"  or type="num" required>
+                <label> Email address or Mobile Number </label>
+            </div>
+            <div class="form-control">
+                <input type="pw" required>
+                <label> Password </label>
+            </div>
+            <button type="submit"> Sign In </button>
+            <div class="form-help">
+                <div class="remember-me">
+                    <input type="checkbox" id="remember">
+                    <label for="remember"> Remember me </label>
+                </div>
+                <a href="#"> s Need help?  </a>
+            </div>
+        </form>
+        <p> New to Netflix? <a href="#"> Sign Up Now </a></p>
+            This page is protected by GOOGLE reCAPTCHA to ensure you are a human. 
+            <a href="#"> <small> Learn more </small> </a>
+        </small></small>
+    </div>
+</body>
+</html>
